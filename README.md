@@ -17,6 +17,9 @@ Shenyue Jia
 
 ## Technical Guides
 
+- [Create a GitHub repository](https://github.com/jiashenyue/geo441-541/blob/main/guide/guide01_create_github_repo.ipynb)
+- [Add Google Notebooks to repository and update `README`](https://github.com/jiashenyue/geo441-541/blob/main/guide/guide02_create_project_portfolio_in_github.ipynb)
+
 ## References
 - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 
