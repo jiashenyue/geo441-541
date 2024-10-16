@@ -16,6 +16,11 @@ Shenyue Jia
 
 - [Understanding map coordinates](https://github.com/jiashenyue/geo441-541/blob/main/map-coordinates-basics/understanding-coordinates.ipynb)
 
+## Remote Sensing Basics
+
+- [Inspect different band composites of Landsat images](https://github.com/jiashenyue/geo441-541/blob/main/remote-sensing-basics/understand_band_composite.ipynb)
+
+
 ## Technical Guides
 
 - [Create a GitHub repository](https://github.com/jiashenyue/geo441-541/blob/main/guide/guide01_create_github_repo.ipynb)
