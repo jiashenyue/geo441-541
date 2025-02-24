@@ -17,12 +17,27 @@ Shenyue Jia
 
 ## Spatial Analysis for Vector Data
 
+- [Field calculation](https://github.com/jiashenyue/geo441-541/blob/main/spatial-analysis-vector-data/census-data-field-calc.ipynb)
+- [Select and query in attribute table](https://github.com/jiashenyue/geo441-541/blob/main/spatial-analysis-vector-data/select-query-vector-data.ipynb)
 - [Buffer analysis](https://github.com/jiashenyue/geo441-541/blob/main/spatial-analysis-vector-data/mapping-cholera-outbreaks-pumps-london.ipynb)
 
 
 ## Spatial Analysis for Raster Data
 
 - [Inspect different band composites of Landsat images](https://github.com/jiashenyue/geo441-541/blob/main/spatial-analysis-raster-data/understand_band_composite.ipynb)
+- [Terrain analysis](https://github.com/jiashenyue/geo441-541/blob/main/spatial-analysis-raster-data/map-elevation.ipynb)
+- [Vegetation change after Thomas fire](https://github.com/jiashenyue/geo441-541/blob/main/spatial-analysis-raster-data/ndvi_change_Thomas_fire.ipynb)
+
+## Comprehensive Analysis
+
+- [Map steep parcels](https://github.com/jiashenyue/geo441-541/blob/main/spatial-analysis-comprehensive/mapping-steep-parcels.ipynb)
+  - Georeferencing a map
+  - Calculate slope
+  - Apply zonal statistics
+  - Add table join
+
+- Group projects on turning census data more accessible for Ohio-focused applications
+  - Group project topics with sample outcomes
 
 ## Reference
 ### Tech Resources
