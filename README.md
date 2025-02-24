@@ -37,7 +37,7 @@ Shenyue Jia
   - Add table join
 
 - Group projects on turning census data more accessible for Ohio-focused applications
-  - Group project topics with sample outcomes
+  - [Group project topics with sample outcomes](https://github.com/jiashenyue/geo441-541/blob/main/spatial-analysis-comprehensive/GEO441_541b_Spring2025_group_project.ipynb)
 
 ## Reference
 ### Tech Resources
