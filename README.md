@@ -57,5 +57,5 @@ Below are several examples produced by students of GEO 441/541 in Fall 2024. Fee
 
 ## Web Mapping
 
-- [Land surface temperature of golf courses in Palm Springs, CA and neighboring desert area](https://tinyurl.com/lst-palm-springs)
+- [Land surface temperature of golf courses in Palm Springs, CA and neighboring desert area](https://miamioh.maps.arcgis.com/home/item.html?id=842af8c69abc4923b405674ce2b74800)
 
