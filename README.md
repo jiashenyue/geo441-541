@@ -55,3 +55,7 @@ Below are several examples produced by students of GEO 441/541 in Fall 2024. Fee
 - Work by Layne Miller @Miami University Geography Department
   - [GIS Project Portfolio](https://github.com/mill2287/GIS-Project-Portfolio-GEO441/tree/main)
 
+## Web Mapping
+
+- [Land surface temperature of golf courses in Palm Springs, CA and neighboring desert area](https://miamioh.maps.arcgis.com/apps/instant/compare/index.html?appid=842af8c69abc4923b405674ce2b74800)
+
